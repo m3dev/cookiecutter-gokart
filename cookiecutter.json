@@ -1,0 +1,8 @@
+{
+    "project_name": "project_name",
+    "package_name": "package_name",
+    "python_version": "3.6",
+    "author": "your name",
+    "package_description": "What's this project?",
+    "license": "MIT License"
+}
