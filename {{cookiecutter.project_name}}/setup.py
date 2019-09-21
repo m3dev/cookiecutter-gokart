@@ -7,14 +7,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 install_requires = [
-    'luigi',
     'gokart',
-    'python-dateutil==2.7.5',
-    'pandas',
-    'numpy',
-    'tqdm',
-    'boto',
-    'botocore',
 ]
 
 setup(
