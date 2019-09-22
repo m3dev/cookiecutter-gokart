@@ -6,7 +6,7 @@ This is a [cookiecutter](https://github.com/audreyr/cookiecutter) template for g
 # Usage
 
 ```
-cookiecutter -m https://github.com/m3dev/cookiecutter-gokart
+cookiecutter https://github.com/m3dev/cookiecutter-gokart
 ```
 
 - question
