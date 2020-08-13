@@ -11,14 +11,14 @@ install_requires = [
 ]
 
 setup(
-    name={{cookiecutter.package_name}},
+    name="{{cookiecutter.package_name}}",
     use_scm_version=True,
     setup_requires=['setuptools_scm'],
-    description={{cookiecutter.package_description}},
+    description="{{cookiecutter.package_description}}",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author={{cookiecutter.author}},
-    license={{cookiecutter.license}},
+    author="{{cookiecutter.author}}",
+    license="{{cookiecutter.license}}",
     packages=find_packages(),
     install_requires=install_requires,
     test_suite='test')
