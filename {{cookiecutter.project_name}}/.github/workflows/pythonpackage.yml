@@ -23,4 +23,4 @@ jobs:
         python setup.py install
     - name: Test with unittest
       run: |
-        python -m unittest test/unittest
+        python -m unittest discover test.unit_test
