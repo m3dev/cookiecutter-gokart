@@ -3,6 +3,9 @@
 This is a [cookiecutter](https://github.com/audreyr/cookiecutter) template for generating a [gokart](https://github.com/m3dev/gokart) tasks.
 
 
+Please refer to [gokart tutorial](https://gokart.readthedocs.io/en/latest/)
+
+
 # Usage
 
 ```
@@ -24,9 +27,7 @@ license [MIT License]:                                       # license
 
 - run sample
 
-```
-python main.py sample.Sample --local-scheduler
-```
+Please see `project_name/README.md`.
 
 
 # Thanks
