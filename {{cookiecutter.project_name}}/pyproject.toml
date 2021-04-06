@@ -2,7 +2,7 @@
 name = "{{cookiecutter.package_name}}"
 version = "1.0.0"
 description = "{{cookiecutter.package_description}}"
-author = ["{{cookiecutter.author}}"]
+authors = ["{{cookiecutter.author}}"]
 license = "{{cookiecutter.license}}"
 readme = "README.md"
 
