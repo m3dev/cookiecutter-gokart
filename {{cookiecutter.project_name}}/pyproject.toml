@@ -7,7 +7,7 @@ license = "{{cookiecutter.license}}"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.7.0"
+python = "^{{cookiecutter.python_version}}"
 gokart = "*"
 
 [build-system]

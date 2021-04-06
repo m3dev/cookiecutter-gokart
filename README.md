@@ -16,7 +16,7 @@ Set up using interactive style. Press enter to use default value.
 ```
 project_name [project_name]: m3sample                        # project name, repo name
 package_name [package_name]: sample                          # python package name
-python_version [3.6]:                                        # using python version
+python_version [3.7.0]:                                      # using python version
 author [your name]: m3dev                                    # repository author name
 package_description [What's this project?]: this is sample   # short description
 license [MIT License]:                                       # license

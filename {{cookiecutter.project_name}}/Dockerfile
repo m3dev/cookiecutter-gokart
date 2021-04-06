@@ -1,4 +1,4 @@
-FROM python:3.7.0-stretch
+FROM python:{{cookiecutter.python_version}}-stretch
 
 WORKDIR /app
 
