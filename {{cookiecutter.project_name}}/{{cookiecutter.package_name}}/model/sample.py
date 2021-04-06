@@ -1,6 +1,6 @@
 from logging import getLogger
 
-from utils.templete import GokartTask
+from {{cookiecutter.package_name}}.utils.templete import GokartTask
 
 logger = getLogger(__name__)
 
