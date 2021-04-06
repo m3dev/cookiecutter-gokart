@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "{{cookiecutter.package_name}}"
+version = "1.0.0"
+description = "{{cookiecutter.package_description}}"
+author = ["{{cookiecutter.author}}"]
+license = "{{cookiecutter.license}}"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7.0"
+gokart = "*"
+
+[build-system]
+requires = ["poetry"]
+build-backend = "poetry.masonry.api"

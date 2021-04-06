@@ -14,3 +14,12 @@ python main.py {{cookiecutter.package_name}}.Sample --local-scheduler
 ```
 python -m unittest discover -s ./test/unit_test/
 ```
+
+
+# Docker Run
+
+```
+poetry lock
+docker build
+docker run
+```
