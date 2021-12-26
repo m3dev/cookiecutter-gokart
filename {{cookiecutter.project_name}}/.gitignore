@@ -105,7 +105,7 @@ ENV/
 
 # dev
 sandbox/
-resource/*
+resources/*
 notebook/
 conf/env.list.local
 
